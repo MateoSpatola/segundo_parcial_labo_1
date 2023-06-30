@@ -1,1 +1,3 @@
-# segundo_parcial_labo_1
+## Segundo Parcial Laboratorio 1
+ - Alumno: Mateo Spatola
+ - Division: 1D
